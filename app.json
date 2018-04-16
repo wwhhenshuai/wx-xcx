@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/rpRelease/rpRelease",
+    "pages/entry/entry",
+    "pages/login/login",
+    "pages/myWork/myWork",
+    "pages/myMap/myMap",
+    "pages/myJane/myJane",
+    "pages/workDetails/workDetails",
+    "pages/details/details"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black"
+  }
+}

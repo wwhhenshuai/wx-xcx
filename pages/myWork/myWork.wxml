@@ -1,0 +1,190 @@
+<view>
+<input class='work' placeholder="输入职位关键字、公司名称">
+</input>
+<view class='top'>
+   <view>
+   推崇
+   </view>
+   <view class='top-R' bindtap='nav'>
+   地点
+   </view>
+</view>
+
+<!-- 1 -->
+<view class='center' bindtap='nvv'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/jd_07.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>京东</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+
+
+
+
+		</view>	
+    <!-- 1end -->
+<!-- 2 -->
+<view class='center'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/meituan_11.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>美团</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+		</view>	
+
+<!-- 2end -->
+
+<!-- 3 -->
+<view class='center'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/toutiao_11.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>头条</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+
+
+
+
+		</view>	
+
+<!-- 3end -->
+
+<!-- 4 -->
+<view class='center'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/jd_07.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>京东</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+
+
+
+
+		</view>	
+
+<!-- 4end -->
+
+<!-- 5 -->
+<view class='center'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/jd_07.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>京东</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+
+
+
+
+		</view>	
+
+<!-- 5end -->
+
+<!-- 6 -->
+<view class='center'>
+
+
+			<view>
+			<image bindtap="bindViewTap" src="../../images/jd_07.jpg"></image>
+			</view>
+			<view class='text'>
+				<view>京东</view>
+				
+				<text>10000人以上 | 互联网·电商</text>
+								
+				<view>
+        	<text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+          <text>上市公司</text>
+        </view>
+				
+				
+				<text>2296个与我相关的职业</text>
+			</view>
+
+
+
+
+		</view>	
+
+<!-- 6end -->
+<button bindtap='wor'>wode</button>
+
+
+
+</view>
